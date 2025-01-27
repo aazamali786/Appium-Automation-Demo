@@ -1,0 +1,323 @@
+2023-12-01 08:30:10 - [32minfo[39m: Reading configs from D:\MotorMouthAutomation\motormouth-automated-testing\android\browserstack.yml
+2023-12-01 08:30:11 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-01 08:30:12 - [32minfo[39m: Using app: ./MotorMouth_1.4.3.stage.apk
+2023-12-01 08:30:12 - [32minfo[39m: Uploading app ./MotorMouth_1.4.3.stage.apk  to browserstack
+2023-12-01 08:30:22 - [32minfo[39m: App upload completed: {"app_url":"bs://8dbcd19e42f993b8985ae47c607866b2f0129968"}
+2023-12-01 08:30:25 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-12-01 08:35:08 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/0ed6e2b020ddaa71b34cc279bf308ecf7a71030e
+2023-12-05 04:51:19 - [32minfo[39m: Reading configs from D:\MotorMouthAutomation\motormouth-automated-testing\android\browserstack.yml
+2023-12-05 04:51:19 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-05 04:51:20 - [32minfo[39m: Using app: ./MotorMouth_1.4.3.stage.apk
+2023-12-05 04:51:20 - [32minfo[39m: Uploading app ./MotorMouth_1.4.3.stage.apk  to browserstack
+2023-12-05 04:51:20 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://8dbcd19e42f993b8985ae47c607866b2f0129968
+2023-12-05 04:51:24 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-12-05 04:52:59 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/ebbc346b1077608a6d601faeaa461d8d2ba70371
+2023-12-05 04:54:16 - [32minfo[39m: Reading configs from D:\MotorMouthAutomation\motormouth-automated-testing\android\browserstack.yml
+2023-12-05 04:54:16 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-05 04:54:17 - [32minfo[39m: Using app: ./MotorMouth_1.4.3.stage.apk
+2023-12-05 04:54:17 - [32minfo[39m: Uploading app ./MotorMouth_1.4.3.stage.apk  to browserstack
+2023-12-05 04:54:17 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://8dbcd19e42f993b8985ae47c607866b2f0129968
+2023-12-05 04:54:21 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-12-05 04:55:35 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/a149316ba330ab62ae101712f834f601ca3cf8ea
+2023-12-05 04:58:27 - [32minfo[39m: Reading configs from D:\MotorMouthAutomation\motormouth-automated-testing\android\browserstack.yml
+2023-12-05 04:58:27 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-05 04:58:28 - [32minfo[39m: Using app: ./MotorMouth_1.4.3.stage.apk
+2023-12-05 04:58:28 - [32minfo[39m: Uploading app ./MotorMouth_1.4.3.stage.apk  to browserstack
+2023-12-05 04:58:28 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://8dbcd19e42f993b8985ae47c607866b2f0129968
+2023-12-05 04:58:31 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-12-05 04:59:45 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/6ea1a479ba1832fd8a9cd86ea05c1e186a2b6d3f
+2023-12-08 10:38:55 - [32minfo[39m: Reading configs from D:\MotorMouthAutomation\motormouth-automated-testing\android\browserstack.yml
+2023-12-08 10:38:55 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-08 10:38:57 - [32minfo[39m: Using app: ./MotorMouth_1.4.3.stage.apk
+2023-12-08 10:38:57 - [32minfo[39m: Uploading app ./MotorMouth_1.4.3.stage.apk  to browserstack
+2023-12-08 10:38:57 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://8dbcd19e42f993b8985ae47c607866b2f0129968
+2023-12-08 10:39:00 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-12-08 10:45:30 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/d0cc30153bcf22077b7e61b101e6774970481fc7
+2025-01-24 22:52:07 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-24 22:52:07 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-24 22:52:08 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-24 22:52:08 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-24 22:52:20 - [32minfo[39m: App upload completed: {"app_url":"bs://77c65f9692af938872e2a4560bd592afd4d44cdc"}
+2025-01-24 22:52:25 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-24 22:52:59 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/15d857986d129fb2ecc82f6130b6ac5bf7d4055c
+2025-01-24 23:05:15 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\motormouth-automated-testing 1\motormouth-automated-testing\android\browserstack.yml
+2025-01-24 23:05:15 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-24 23:05:17 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-24 23:05:17 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-24 23:05:21 - [32minfo[39m: App upload completed: {"app_url":"bs://8e434f92942e7bdafa6114a969799a75e17470c8"}
+2025-01-24 23:05:25 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-24 23:06:01 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/2a2e9be09b67ff622e3812409038bb3cbea02ca7
+2025-01-24 23:09:56 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-24 23:09:56 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-24 23:09:58 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-24 23:09:58 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-24 23:09:58 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://8e434f92942e7bdafa6114a969799a75e17470c8
+2025-01-24 23:10:03 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-24 23:10:37 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/d261c130aec1baebf650ee2a7dbb29d6cea3e4b5
+2025-01-24 23:49:01 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-24 23:49:01 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-24 23:49:03 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-24 23:49:03 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-24 23:49:03 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://8e434f92942e7bdafa6114a969799a75e17470c8
+2025-01-24 23:49:09 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-24 23:51:57 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-24 23:51:57 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-24 23:52:00 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-24 23:52:00 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-24 23:52:00 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://8e434f92942e7bdafa6114a969799a75e17470c8
+2025-01-24 23:52:09 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-24 23:52:46 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/7306fc0d5919093fff2e1fbcb333cb455917dbd5
+2025-01-24 23:53:59 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-24 23:53:59 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-24 23:54:02 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-24 23:54:02 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-24 23:54:02 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://8e434f92942e7bdafa6114a969799a75e17470c8
+2025-01-24 23:54:06 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-24 23:54:46 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/b899a2a0bc31d260c0d43e80e7a3c6e7f5ebee45
+2025-01-25 00:31:01 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 00:31:01 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 00:31:03 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 00:31:03 - [31merror[39m: Error: [Invalid app path] app path ./calories.apk is not correct, Provide correct path to app under test
+    at exports.handleApp (C:\Users\user\Downloads\mobile-automation-demo\android\node_modules\browserstack-node-sdk\src\helpers\helper.js:1:287387)
+    at run (C:\Users\user\Downloads\mobile-automation-demo\android\node_modules\browserstack-node-sdk\src\bin\cucumber-js\command.js:2:12883)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async captureError (C:\Users\user\Downloads\mobile-automation-demo\android\node_modules\browserstack-node-sdk\src\bin\runner.js:2:2145)
+2025-01-25 00:32:23 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 00:32:23 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 00:32:26 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 00:32:26 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 00:32:40 - [32minfo[39m: App upload completed: {"app_url":"bs://165aa42756de2c6fdca192766dd7c5c29c25a976"}
+2025-01-25 00:32:44 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 00:33:18 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/eaea7c85474532ea1b3c91e7c63cae2d437ab37b
+2025-01-25 00:37:57 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 00:37:57 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 00:37:59 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 00:37:59 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 00:37:59 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 00:38:04 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 00:38:37 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/9ae58949818a7a7aeeff1a45e01df3b09de40764
+2025-01-25 00:58:44 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 00:58:44 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 00:58:46 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 00:58:46 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 00:58:46 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 00:58:51 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 00:59:27 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/d3e00e4406483c916fca7572e0cac15635ce55db
+2025-01-25 00:59:41 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 00:59:41 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 00:59:43 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 00:59:43 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 00:59:43 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 00:59:47 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 01:00:21 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/afb0e88e89f4e09cffb1820632bac2cc42cce89b
+2025-01-25 01:02:43 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 01:02:43 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 01:02:45 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 01:02:45 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 01:02:45 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 01:02:48 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 01:03:25 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/8985f20137ef550769d6af908a972610ac415765
+2025-01-25 01:42:09 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 01:42:09 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 01:42:12 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 01:42:12 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 01:42:12 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 01:42:18 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 01:42:53 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/5336593e0cbb8311361f7ea2dfa089b9fdc6fa51
+2025-01-25 02:13:28 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 02:13:28 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 02:13:31 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 02:13:31 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 02:13:31 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 02:13:35 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 02:14:01 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/8cc94dd401722073a86928c40bf6351c1148aac6
+2025-01-25 02:15:30 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 02:15:30 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 02:15:33 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 02:15:33 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 02:15:33 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 02:15:37 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 02:16:07 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/47bc2193263d1349f2289e036dc23d5e3afb5e1c
+2025-01-25 02:18:36 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 02:18:36 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 02:18:39 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 02:18:39 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 02:18:39 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 02:18:43 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 02:19:21 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/fae463b694a755aabdbbb3d72c665196ad921b44
+2025-01-25 02:21:01 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 02:21:01 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 02:21:03 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 02:21:03 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 02:21:03 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 02:21:07 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 02:21:47 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/8a198bf4714cc21c3bb7b2f4a00a224b83523381
+2025-01-25 02:23:08 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 02:23:08 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 02:23:10 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 02:23:10 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 02:23:10 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 02:23:14 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 02:23:52 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/c885b19d032a11d6f07b3f3ca06e9bb261aaa45c
+2025-01-25 02:26:26 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 02:26:26 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 02:26:27 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 02:26:27 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 02:26:27 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 02:26:32 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 02:27:06 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/4df1e91a15bab39c6437bd40b1a5b6c7729e1a0e
+2025-01-25 02:31:12 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 02:31:12 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 02:31:14 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 02:31:14 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 02:31:14 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 02:31:18 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 02:31:54 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/9f5c8044c5fe215ec0c462ba83e2dd6e4d810e58
+2025-01-25 02:33:04 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 02:33:04 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 02:33:07 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 02:33:07 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 02:33:07 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 02:33:10 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 02:33:39 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/8932336045f7ab970e8ecc1259091f9035fd690a
+2025-01-25 02:34:04 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 02:34:05 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 02:34:06 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 02:34:06 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 02:34:06 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 02:34:10 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 02:34:43 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/1908865622a3eb5732d163b625eb03f7826ea1fc
+2025-01-25 02:37:17 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 02:37:17 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 02:37:19 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 02:37:19 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 02:37:19 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 02:37:22 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 02:39:57 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/28997e62ae82b2e1f3adc1672ac4b8c4adabe4aa
+2025-01-25 02:40:19 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 02:40:19 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 02:40:20 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 02:40:20 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 02:40:20 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 02:40:26 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 02:41:58 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/d574362befdd49ba4678b3dc905161d3ee1018c3
+2025-01-25 02:45:16 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 02:45:16 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 02:45:18 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 02:45:18 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 02:45:18 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 02:45:22 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 02:47:02 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/9e48daad49f7aac683f7ad99e08f0d67eea23bf2
+2025-01-25 02:58:32 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 02:58:32 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 02:58:34 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 02:58:34 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 02:58:34 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 02:58:38 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 02:59:20 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/daeca70cd13239ed78ebce76683ae5f68fe42fe8
+2025-01-25 03:04:25 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 03:04:25 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 03:04:28 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 03:04:28 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 03:04:28 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 03:04:33 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 03:05:19 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/7da8f784099a96d71560f031b9c20057375db7ed
+2025-01-25 03:11:43 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 03:11:43 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 03:11:45 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 03:11:45 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 03:11:45 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 03:11:49 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 03:12:35 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/12af0c7bf7ff708c880fae617e17ac819cf583ad
+2025-01-25 03:18:08 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 03:18:08 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 03:18:11 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 03:18:11 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 03:18:11 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 03:18:15 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 03:18:47 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/99ea6e3bffa48f7598a37bd6e3b5a78b9760bc14
+2025-01-25 03:20:09 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 03:20:09 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 03:20:11 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 03:20:11 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 03:20:11 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 03:20:16 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 03:20:49 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/1f1e33495c25bef2e5a17e02ea5dbacbf51734ca
+2025-01-25 03:23:50 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 03:23:50 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 03:23:52 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 03:23:52 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 03:23:52 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 03:23:56 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 03:24:41 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/894824cc1db9836e12c88b0e5ea7bd4e2beb886d
+2025-01-25 03:39:25 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 03:39:25 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 03:39:27 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 03:39:27 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 03:39:27 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 03:39:32 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 03:40:04 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/9649fe235fc3390e4a1105fe34de1ded15aa1387
+2025-01-25 03:41:49 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 03:41:49 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 03:41:52 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 03:41:52 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 03:41:52 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 03:41:56 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 03:52:19 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 03:52:19 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 03:52:21 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 03:52:21 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 03:52:21 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 03:52:26 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 03:52:56 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/4dcbdc12594c0e48a8af52ec51fce64a9e0865d0
+2025-01-25 03:53:16 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 03:53:16 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 03:53:18 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 03:53:18 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 03:53:18 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 03:53:22 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 03:53:51 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/b2126eab5cf01fcd50c684672fb5cd5f2d048ff0
+2025-01-25 03:55:59 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 03:56:00 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 03:56:02 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 03:56:02 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 03:56:02 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 03:56:07 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 03:56:38 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/0d203741ce146cabe2e6265e797c749fc1d99a29
+2025-01-25 04:01:42 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 04:01:42 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 04:01:44 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 04:01:44 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 04:01:44 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 04:01:48 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 04:02:20 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/459b9d0dae29e6e2c91a62de8d2557a6e06ab63d
+2025-01-25 04:03:45 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 04:03:46 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 04:03:48 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 04:03:48 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 04:03:48 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 04:03:52 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 04:04:25 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/be47a4d4195455fc8b4c492ce54db550dcb68c86
+2025-01-25 04:06:45 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-25 04:06:45 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 04:06:47 - [32minfo[39m: Using app: ./calories.apk
+2025-01-25 04:06:47 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-25 04:06:47 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-25 04:06:52 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 04:07:34 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/374ef000ea41c54254292fd2675c8ebe75e580da
+2025-01-27 22:22:54 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-27 22:22:54 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-27 22:22:57 - [32minfo[39m: Using app: ./calories.apk
+2025-01-27 22:22:57 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-27 22:22:57 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://165aa42756de2c6fdca192766dd7c5c29c25a976
+2025-01-27 22:23:02 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 22:23:04 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/44d16fc9887bbcbc040baecb974e691b8cc054c4
+2025-01-27 22:24:22 - [32minfo[39m: Reading configs from C:\Users\user\Downloads\mobile-automation-demo\android\browserstack.yml
+2025-01-27 22:24:22 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 22:24:24 - [32minfo[39m: Using app: ./calories.apk
+2025-01-27 22:24:24 - [32minfo[39m: Uploading app ./calories.apk  to browserstack
+2025-01-27 22:24:37 - [32minfo[39m: App upload completed: {"app_url":"bs://1b68de146d5d69a3c9228034cb41d3459f4b1fb6"}
+2025-01-27 22:24:44 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 22:25:30 - [32minfo[39m: Visit https://observability.browserstack.com/builds/mm0htedo6inzgz16rmgtcsawih2moq7damkpfyrc to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 22:25:31 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/51287348ece74c30fc23718a0e8f2a425b4259e8

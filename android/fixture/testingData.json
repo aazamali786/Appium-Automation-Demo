@@ -1,0 +1,14 @@
+{
+    "fullName": "Auto Test",
+    "address": "San Diego, CA, USA",
+    "address2": "San Marcos, CA, USA",
+    "airportAddressA": "San Francisco International Airport (SFO) (SFO), San Francisco, CA, USA",
+    "airportAddressB": "San Diego International Airport (SAN), North Harbor Drive, San Diego, CA, USA",
+    "airlineCode": "Alaska Airlines",
+    "flightNumber": "3434",
+    "internationalAirlineCode": "UA",
+    "internationalFlightNumber": "2476",
+    "internationalAirport": "Denver International Airport",
+    "domesticAirport": "San Francisco International Airport",
+    "invalidFlightNumber": "0214"
+}
