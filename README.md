@@ -72,4 +72,10 @@ This command is passed in the `package.json` file  in the `debug`script section 
 `
 - You can access the test execution results, and debugging information such as video recording, network logs on [App Automate dashboard](https://app-automate.browserstack.com/dashboard)
 
+This command is passed in the `package.json` file  in the `debug`script section and one can pass the key and value pair and specify the file in this format `"test": "browserstack-node-sdk cucumber-js features/*.feature",
+
+- This command will start running all test cases for Android and IOS at once. Once All test cases are finished, then it will provide result summary for all testcases.
+`
+- You can access the test execution results, and debugging information such as video recording, network logs on [App Automate dashboard](https://app-automate.browserstack.com/dashboard)
+
 
